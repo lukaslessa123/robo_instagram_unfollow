@@ -1,0 +1,1 @@
+Esse projeto é um robo de parar de seguir no instagram.
