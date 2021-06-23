@@ -66,6 +66,6 @@ class InstaUnfollow:
         #except:
         #    pass
 
-swellmkt = InstaUnfollow("flipwashfortaleza", "sucesso020920")
+swellmkt = InstaUnfollow("login", "senha")
 swellmkt.login()
 swellmkt.Unfallow()
